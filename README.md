@@ -12,4 +12,4 @@
 
 ⚡ Fun fact: I was offered a place on a semi-pro e-sports team when I was 16
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tobster23_&count={1})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tobster23_)
