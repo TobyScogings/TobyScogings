@@ -1,4 +1,4 @@
-# Hiya 👋 My name is Toby, weclome to my profile!
+# Hey 👋 My name is Toby, weclome to my profile!
 
 🔭 I’m currently working at Digital Futures
 
