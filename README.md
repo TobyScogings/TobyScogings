@@ -1,8 +1,19 @@
 # Hey 👋 My name is Toby, weclome to my profile!
 
-🔭 I’m currently working at Digital Futures
+## About me 💬
 
-🌱 I’m currently learning to become a data analyst
+**I am a Data Analyst Trainee from Essex**
+
+#### Currently Learning
+
+- Predictive modelling
+- Data handling and exploration
+- AI ethics 
+
+#### Hobbies
+
+- **Sports**: Football ⚽ (Nottingham Forest) and Basketball 🏀 (Orlando Magic) fan
+- **Gaming**: 
 
 💬 Ask me about sports/gaming/music/tv
 
