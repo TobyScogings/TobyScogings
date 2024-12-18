@@ -11,6 +11,7 @@
 #### Currently Learning
 
 - Predictive modelling
+- Programmatic data wrangling
 - Data handling and exploration
 - AI ethics 
 
