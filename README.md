@@ -16,6 +16,7 @@
 - **Gaming**: Destiny 2 🎮 is my favourite game!
 - **TV and Anime**: Breaking Bad 🧪 and Attack on Titan ⚔️🧣 are my favourite shows!
 - **Music**: Check out my most recently played song 🎶:
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tobster23_&count=1)
 
 
