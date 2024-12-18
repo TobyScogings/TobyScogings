@@ -22,7 +22,7 @@
 
 If you want to reach out to me about anything, you can contact me through the following 📫:
 
-<a href="mailto:toby.scogings@bath.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" height= 233 width = 300 alt=""/></a>
+<a href="mailto:toby.scogings@bath.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" height= 93 width = 128 alt=""/></a>
 
 
 ⚡ Fun fact: I was offered a place on a semi-pro e-sports team when I was 16
