@@ -18,7 +18,7 @@
 
 #### Hobbies
 
-- **Sports**: ⚽Nottingham Forest ⚽ and Orlando Magic 🏀 fan!
+- **Sports**: Nottingham Forest ⚽ and Orlando Magic 🏀 fan!
 - **Gaming**: Destiny 2 🎮 is my favourite game!
 - **TV and Anime**: Breaking Bad 🧪 and Attack on Titan ⚔️🧣 are my favourite shows!
 - **Music**: Check out my most recently played song 🎶:
