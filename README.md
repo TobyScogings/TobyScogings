@@ -4,11 +4,11 @@
 
 ## About me 💬
 
-**I am a Data Analyst Trainee from Essex**
+**I am a Junior Data Analyst from Essex, England**
 
 
 
-#### Currently Learning
+#### Currently Developing Skills
 
 - Predictive modelling
 - Programmatic data wrangling
